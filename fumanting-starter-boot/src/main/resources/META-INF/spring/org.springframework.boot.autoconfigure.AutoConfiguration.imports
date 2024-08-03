@@ -1,0 +1,5 @@
+com.fumanting.boot.config.OpensabreSwaggerConfig
+com.fumanting.boot.config.OpensabreBootConfig
+com.fumanting.boot.config.OpensabreWebConfiguration
+com.fumanting.boot.config.OpensabreServiceConfig
+com.fumanting.boot.config.OpensabreSensitiveConfig

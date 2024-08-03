@@ -1,0 +1,3 @@
+com.fumanting.rpc.openfeign.config.OpensabreFeignConfig
+com.fumanting.rpc.openfeign.config.OpensabreLoadBalancerConfig
+com.fumanting.rpc.sentinel.config.OpensabreSentinelConfig

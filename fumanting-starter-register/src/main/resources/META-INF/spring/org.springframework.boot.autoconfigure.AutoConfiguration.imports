@@ -1,0 +1,3 @@
+com.fumanting.register.config.OpensabreDiscoveryConfiguration
+com.fumanting.register.config.OpensabreNacosDiscoveryConfiguration
+com.fumanting.register.config.OpensabreNacosProjectConfiguration
